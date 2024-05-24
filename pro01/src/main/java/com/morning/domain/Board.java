@@ -9,9 +9,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Board {
 	private int bno;
-	private String title;
-	private String content;
-	private String author;
-	private int vcnt;
-	private String resdate;
+	private String id;
+	private int pno;
+	private int amount;
+	private String remark;
 }

@@ -1,0 +1,5 @@
+package com.morning.dao;
+
+public class BoardDAO { //강사님은 dao를 mapper로 만듦
+
+}
